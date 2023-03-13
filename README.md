@@ -4,6 +4,7 @@
   
 
 ### <div align="center">I'm Furkan, Cyber Security Expert 💻.</div>  
+<br>
   
 
 - 🌱 I’m currently learning Python, Data Science and AI.  
