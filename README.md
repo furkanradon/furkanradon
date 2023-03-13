@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Python, Data Science and AI.  
   
-
+<img align= "right" alt="coding" widh="300" src = https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif>
 - ❓ Ask me about Cyber Security, Python, Artificial Intelligence  
   
 
